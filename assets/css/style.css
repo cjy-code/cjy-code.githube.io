@@ -1002,6 +1002,7 @@ p {
   }
   
   .aboutme ul li{
+    margin-top: -40px;
     display: inline-block;
   }
 
